@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "marketable": 1,
+            "wap": 5089,
+            "symbol": "¥",
+            "weixin": 5089,
+            "pc": 5099,
+            "app": 5089,
+            "unit": "元",
+            "activity": {},
+            "code": 53354
+        },
+        {
+            "marketable": 1,
+            "wap": 5489,
+            "symbol": "¥",
+            "weixin": 5299,
+            "pc": 5499,
+            "app": 5489,
+            "unit": "元",
+            "activity": {},
+            "code": 53381
+        },
+        {
+            "marketable": 1,
+            "wap": 6489,
+            "symbol": "¥",
+            "weixin": 6489,
+            "pc": 6499,
+            "app": 6489,
+            "unit": "元",
+            "activity": {},
+            "code": 59217
+        },
+        {
+            "marketable": 1,
+            "wap": 4689,
+            "symbol": "¥",
+            "weixin": 4689,
+            "pc": 4699,
+            "app": 4689,
+            "unit": "元",
+            "activity": {},
+            "code": 58927
+        },
+        {
+            "marketable": 1,
+            "wap": 2399,
+            "symbol": "¥",
+            "weixin": 2399,
+            "pc": 2399,
+            "app": 2399,
+            "unit": "元",
+            "activity": {},
+            "code": 58520
+        },
+        {
+            "marketable": 1,
+            "wap": 3989,
+            "symbol": "¥",
+            "weixin": 3999,
+            "pc": 3999,
+            "app": 3989,
+            "unit": "元",
+            "activity": {},
+            "code": 58011
+        },
+        {
+            "marketable": 1,
+            "wap": 7489,
+            "symbol": "¥",
+            "weixin": 7499,
+            "pc": 7499,
+            "app": 7489,
+            "unit": "元",
+            "activity": {},
+            "code": 59232
+        },
+        {
+            "marketable": 1,
+            "wap": 6989,
+            "symbol": "¥",
+            "weixin": 6999,
+            "pc": 6999,
+            "app": 6989,
+            "unit": "元",
+            "activity": {},
+            "code": 58580
+        }
+    ],
+    "curDatetime": "2017-04-07 15:49:18",
+    "status": 200,
+    "timecost": 0.00099992752075195,
+    "size": 8
+}

@@ -1,0 +1,50 @@
+{
+    "createTime": null,
+    "lastModifyTime": null,
+    "version": 0,
+    "success": true,
+    "resultCode": null,
+    "resultMsg": null,
+    "t": [
+        {
+            "gcode": "48791",
+            "price": "6499",
+            "fromTime": "2017-04-05 14:27:50",
+            "toTime": "2017-04-13 23:59:00",
+            "minusPrice": "600元",
+            "currencyCode": "CNY"
+        },
+        {
+            "gcode": "52617",
+            "price": "4989",
+            "fromTime": "2017-04-06 18:00:00",
+            "toTime": "2017-04-19 23:59:59",
+            "minusPrice": "600元",
+            "currencyCode": "CNY"
+        },
+        {
+            "gcode": "58780",
+            "price": "5989",
+            "fromTime": "2017-04-05 14:27:50",
+            "toTime": "2017-04-13 23:59:00",
+            "minusPrice": "500元",
+            "currencyCode": "CNY"
+        },
+        {
+            "gcode": "59517",
+            "price": "6999",
+            "fromTime": "2017-04-06 18:00:00",
+            "toTime": "2017-04-19 23:59:59",
+            "minusPrice": "500元",
+            "currencyCode": "CNY"
+        },
+        {
+            "gcode": "59876",
+            "price": "3499",
+            "fromTime": "2017-04-06 18:00:00",
+            "toTime": "2017-04-19 23:59:59",
+            "minusPrice": "100元",
+            "currencyCode": "CNY"
+        }
+    ]
+}
